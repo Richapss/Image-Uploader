@@ -2,6 +2,8 @@
 
 Sebuah platform aplikasi web **Open Source** berbasis Node.js untuk mengunggah gambar secara anonim dengan sistem perlindungan mandiri file usang *(auto-deletion)* serta sistem donasi terintegrasi QRIS secara *real-time*.
 
+📖 **[Lihat Dokumentasi API Lengkap →](http://localhost:3001/docs)**
+
 ## ✨ Fitur Utama
 
 - ☁️ **Upload Anonim Sederhana** - Unggah gambar menggunakan antarmuka *drag and drop* yang minimalis dan sangat mudah digunakan.
